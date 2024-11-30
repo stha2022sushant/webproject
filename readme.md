@@ -1,5 +1,3 @@
-## Ohhhh , Hello this is dev-sushant
-
-"I'm gonna test some interesting functionality on git merge conflit"
-
+## Hello Git !
+This is modified by dev-shrestha !
 "I'm adding this feature text from, feature-branching "
